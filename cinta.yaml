@@ -1,0 +1,6 @@
+train: C:/Mahmoud_Saeed/project_graduation/traffic_light/cinTA_v2/train
+val: C:/Mahmoud_Saeed/project_graduation/traffic_light/cinTA_v2/valid
+test: C:/Mahmoud_Saeed/project_graduation/traffic_light/cinTA_v2/test
+
+nc: 3  # عدد الفئات (أحمر، أصفر، أخضر)
+names: ["Green", "Red", "Yellow"]
