@@ -3,7 +3,7 @@
 
 # 🚦 Traffic Light Detection with YOLOv8
 
-![Traffic Light Detection](https://github.com/Mahmoud3301/traffic_light/blob/main/4.mp4)
+![Traffic Light Detection]([https://github.com/Mahmoud3301/traffic_light/blob/main/4.mp4](https://github.com/Mahmoud3301/traffic_light/blob/main/traffic.jpeg))
 
 [![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-blue?logo=python)]()
 [![Dataset](https://img.shields.io/badge/Dataset-CinTA_v2-orange)]()
@@ -19,22 +19,6 @@ The goal of this project is to develop a robust system capable of accurately det
 
 ---
 
-## 📂 Project Structure
-
-traffic_light/
-├── runs/
-│ ├── detect/
-│ ├── train/
-├── 4.mp4
-├── README.md
-├── cinta.yaml
-├── test1.mp4
-├── test_traffic_light.py
-├── traffic_light_training.py
-├── yolo11m.pt
-├── yolo11s.pt
-├── yolov12m.pt
-└── yolov8n.pt
 
 
 ## 🧪 Key Components
