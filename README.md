@@ -1,6 +1,6 @@
 # 🚦 Traffic Light Detection — YOLOv8 Project
 
-![Traffic Light Detection]([https://github.com/Mahmoud3301/traffic_light/blob/main/4.mp4](https://github.com/Mahmoud3301/traffic_light/blob/main/traffic.jpeg))
+![Traffic Light Detection](https://github.com/Mahmoud3301/traffic_light/blob/main/traffic.jpeg?raw=rue)
 
 [![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-blue?logo=python)]()
 [![Dataset](https://img.shields.io/badge/Dataset-CinTA_v2-orange)]()
@@ -53,7 +53,7 @@ It leverages the **CinTA_v2 dataset** and is implemented with **PyTorch**, makin
 
 ## 👨‍💻 Developed By
 
-Mahmoud3301
+## Mahmoud Saeed
 
 ---
 
